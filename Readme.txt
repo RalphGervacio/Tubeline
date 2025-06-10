@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+This is Tubeline Website
 
-Template Name: Dewi
-Template URL: https://bootstrapmade.com/dewi-free-multi-purpose-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+I created it this year, June 2025
