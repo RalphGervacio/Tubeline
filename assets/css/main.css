@@ -1795,5 +1795,8 @@ section,
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-/* .starter-section {
-} */
+.sitename {
+  font-size: 16px;
+  font-weight: 700;
+  color: #fff;
+}
